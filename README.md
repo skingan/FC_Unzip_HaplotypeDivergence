@@ -16,5 +16,9 @@ output: fasta, delta, and filtered delta files for each haplotig
 input: run within directory containing filtered delta files, no user-input \
 output: show-coords.out file
 
+## filter and plot in R
+**plotHapDiv.R** \
+input: show-coords.out
+
 
 
